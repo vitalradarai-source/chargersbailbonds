@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chargersbailbonds.com/sitemap.xml
